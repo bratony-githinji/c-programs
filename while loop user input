@@ -2,6 +2,7 @@
 /*
 Author:BrianAnthony Githinji Nyawira
 Reg No:CT101/G/22765/24
+*/
 #include<stdio.h>
 int main () {
 	int i, start,sum=0,stop;
